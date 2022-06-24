@@ -16,7 +16,7 @@
  <li> To see my resume <a href="https://drive.google.com/file/d/1gacg7BXdMEwo9x7uNZBRJu16Hnil1-D0/view?usp=sharing"> Click here</li> </a>
  <li> I am a Full Stack Web Developer, with a good grasp in HTML, CSS and Javascript. </li>
  <li> Currently working on my coding skills and DSA.</li>
- <li> You can contact me <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"</li> </a>
+ <li> You can contact me <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"</li> here </a>
  <li> Fun fact: I love to dance and I really love watching anime.</li>
  </ul>
  <hr>
