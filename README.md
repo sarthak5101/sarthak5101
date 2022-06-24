@@ -7,7 +7,7 @@
   
  <hr>
  <h3> I am a Full Stack Web Developer and an Computer enthusiast. </h3>
- <h4> About Me </h4>
+ <h2> About Me </h2>
  <hr>
  <ul>
  <li> I am a 4th Year undergraduate degree student pursuing my Computer Science from SRM IST of Science and Technology, Delhi NCR Campus. </li>
