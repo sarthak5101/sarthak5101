@@ -22,12 +22,16 @@
  <hr>
  <h2> Languages and Tools: </h2>
  <div id = "badges">
+   <a href="#"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/> </a>
    <a href="#"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt = "C++ Badge"/> </a>
    <a href="#"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> </a>
    <a href="#"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/> </a>
    <a href="#"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Js Badge"/> </a>
    <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; </a>
-
+   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+    <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
+    
 <hr>
 <h2> To watch my Profiles: </h2>
 <div id="badges">
@@ -43,5 +47,13 @@
 </div>
 <hr>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<h2> My Stats: </h2>
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=sarthak5101&theme=react-dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarthak5101&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![sarthak5101's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak5101&theme=dark&show_icons=true)
+
+<h2> Visitor's Count </h2>
+
+![Visitor Count](https://profile-counter.glitch.me/{sarthak5101}/count.svg)
   
