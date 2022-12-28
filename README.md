@@ -13,7 +13,7 @@
  <li>:school: I am a 4th Year undergraduate degree student pursuing my Computer Science from SRM IST of Science and Technology, Delhi NCR Campus. </li>
  <li>	:man: I am a responsible and ambitious student with excellent time management skills. </ii>
  <li>	:speaking_head: Passes proven communication skills and strong work ethics.</li>
- <li>:page_facing_up: To see my resume <a href="https://drive.google.com/file/d/1gacg7BXdMEwo9x7uNZBRJu16Hnil1-D0/view?usp=sharing"> Click here</li> </a>
+ <li>:page_facing_up: To see my resume <a href="https://drive.google.com/file/d/1SAv6e72vo_d-nvNY8dAGTXwfNSEwtzB6/view?usp=sharing"> Click here</li> </a>
  <li>	:computer: I am a Full Stack Web Developer, with a good grasp in HTML, CSS and Javascript. </li>
  <li>:keyboard: Currently working on my coding skills and DSA.</li>
  <li>	:calling: You can contact me <a href="mailto:ssarthak0911@gmail.com"</li> here </a>
