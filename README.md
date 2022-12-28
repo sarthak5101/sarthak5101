@@ -6,7 +6,7 @@
 </h1>
   
  <hr>
- <h3> I am a Full Stack Web Developer and an Computer enthusiast. </h3>
+ <h3> I am a Frontend Web Developer and an Computer enthusiast. </h3>
  <h2>	:nerd_face: About Me </h2>
  <hr>
  <ul>
